@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente trabalho com análise de informações e criação/manutenção de dasboard da área de logística
-- 🌱 Estou estudando Python, SQL, Java e Javascript
+- 🌱 Estudando Python, SQL, Java e Javascript
 - 😄 Pronouns: ele/dele
 
  <div>
